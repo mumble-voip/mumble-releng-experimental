@@ -10,7 +10,7 @@ $mumble_deps = "qt5-base",
 			   "libvorbis",
 			   "libogg",
 			   "libflac",
-			   "sndfile",
+			   "libsndfile",
 			   "libmariadb",
 			   "zlib",
 			   "zeroc-ice"
